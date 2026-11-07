@@ -1,0 +1,5 @@
+description: Tested, copy-paste self-hosting tutorials for your own VPS.
+markdown: kramdown
+permalink: /:title/
+theme: minima
+title: Lamplight Servers
